@@ -67,6 +67,9 @@ public class CategoryControler {
             category.setParentId(categoryStatus);
 
 
+            
+
+
             categoryService.saveCategory(category);
         }
         if ("del".equals(oper)){
