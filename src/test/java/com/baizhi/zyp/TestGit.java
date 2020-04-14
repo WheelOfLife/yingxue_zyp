@@ -22,6 +22,7 @@ public class TestGit {
         ValueOperations valueOperations = redisTemplate.opsForValue();
         Object name = valueOperations.get("name");
         System.out.println(name);
+      
     }
     
 }
