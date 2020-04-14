@@ -1,0 +1,51 @@
+[
+
+  {
+    "title": "男孩",
+    "city": [
+      {"name": "北京","value": "301"},
+      {"name": "天津","value": "202"},
+      {"name": "上海","value": "302"},
+      {"name": "重庆","value": "304"},
+      {"name": "河北","value": "503"},
+      {"name": "安徽","value": "603"},
+      {"name": "新疆","value": "703"},
+      {"name": "浙江","value": "307"},
+      {"name": "江西","value": "403"},
+      {"name": "山西","value": "309"},
+      {"name": "内蒙古","value": "303"},
+      {"name": "吉林","value": "306"},
+      {"name": "福建","value": "303"},
+      {"name": "广东","value": "330"},
+      {"name": "西藏","value": "309"},
+      {"name": "四川","value": "803"},
+      {"name": "宁夏","value": "603"},
+      {"name": "香港","value": "503"},
+      {"name": "澳门","value": "307"}
+    ]
+  },
+  {
+    "title": "女孩",
+    "city": [
+      {"name": "北京","value": "310"},
+      {"name": "天津","value": "220"},
+      {"name": "上海","value": "320"},
+      {"name": "重庆","value": "340"},
+      {"name": "河北","value": "530"},
+      {"name": "安徽","value": "630"},
+      {"name": "新疆","value": "730"},
+      {"name": "浙江","value": "370"},
+      {"name": "江西","value": "430"},
+      {"name": "山西","value": "390"},
+      {"name": "内蒙古","value": "330"},
+      {"name": "吉林","value": "360"},
+      {"name": "福建","value": "330"},
+      {"name": "广东","value": "330"},
+      {"name": "西藏","value": "390"},
+      {"name": "四川","value": "830"},
+      {"name": "宁夏","value": "630"},
+      {"name": "香港","value": "530"},
+      {"name": "澳门","value": "370"}
+    ]
+  }
+]
