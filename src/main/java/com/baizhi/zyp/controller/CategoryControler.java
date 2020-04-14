@@ -65,6 +65,8 @@ public class CategoryControler {
         if ("add".equals(oper)){
             category.setLevels("2");
             category.setParentId(categoryStatus);
+
+
             categoryService.saveCategory(category);
         }
         if ("del".equals(oper)){
