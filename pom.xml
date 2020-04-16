@@ -26,6 +26,7 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
+
         <!--测试支持的jar-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -46,6 +47,8 @@
             <version>1.18.4</version>
             <scope>provided</scope>
         </dependency>
+
+
 
         <!--整合mybatis-->
         <!--mybatis和springboot的整合包-->
